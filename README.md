@@ -1,4 +1,4 @@
-# Élyssa Zang | Web3 Consulting Partner
+# Élyssa | Web3 Consulting Partner
 
 [![Website](https://img.shields.io/badge/Website-elyssaonline.netlify.app-ff1493?style=flat-square&logo=netlify)](https://elyssaonline.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elyssaweb3-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elyssaweb3)
